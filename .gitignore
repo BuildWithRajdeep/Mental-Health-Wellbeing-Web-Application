@@ -1,0 +1,15 @@
+# Ignore build and IDE files
+/build/
+/target/
+*.class
+*.war
+*.log
+
+# Eclipse specific
+/.classpath
+/.project
+/.settings/
+
+# Mac and system files
+.DS_Store
+Thumbs.db
